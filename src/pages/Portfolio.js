@@ -14,11 +14,6 @@ function Portfolio () {
     <div>
       <Container>
         <Row>
-          <Col>
-            <Title/>
-          </Col>  
-        </Row>
-        <Row>
           <PortfolioData/>
         </Row>
       </Container>

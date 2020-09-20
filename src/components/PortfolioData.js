@@ -11,7 +11,10 @@ function PortfolioData () {
 
   return (
     <div>
+      <hr className="my-4"/>
       <h2>Projects and Homework</h2>
+      <h6>From my coding bootcamp</h6>
+      <hr className="my-4"/>
 
       {pfData.map((data, index) => (
         <ProjectCards 
